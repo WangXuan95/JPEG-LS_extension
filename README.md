@@ -33,7 +33,7 @@ JPEG-LS 是一种无损/有损压缩标准。目前网上的 JPEG-LS 实现均�
 在本目录里运行命令产生可执行文件 JLSx.exe 。
 
 ```bash
-gcc src\*.c -o JLSx -O3 -Wall
+gcc src\*.c -o JLSx.exe -O3 -Wall
 ```
 
 　
